@@ -1,7 +1,5 @@
 # Sampling 
 
-This repository contains solution to sampling assignment for UCS654
-
 ### Highlights:
 - The given dataset is severely imbalanced (9:763 imbalance ratio)
 - Technique used to tackle the imbalance: SMOTE
