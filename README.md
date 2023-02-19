@@ -25,7 +25,7 @@ The samples so obtained were then trained using the models herewith:
 ### Extrapolation and Insights: (After cross-validation)
 
 Accuracy on test set:
-|      | Random | Systematic | Stratified |  Cluster   | Convenience |
+|Models| Random | Systematic | Stratified |  Cluster   | Convenience |
 |------|--------|------------|------------|------------|-------------|
 | lr   | 0.901	| 0.774      | 0.934      | 0.920      | 0.983       |
 | rf   | 0.902  | 0.967      | 0.985      | 0.992      | 0.983       |
